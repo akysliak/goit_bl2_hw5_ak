@@ -14,6 +14,6 @@ To specify additional currencies:
 
     python main.py <n_days> <currency_list>
 
-where <currency_list> is a list of currencies, separated with empty spaces. E.g.:
+where <currency_list> is a list of currencies, separated with empty spaces, e.g.:
 
     python main.py 4 CHF GBP PLZ XAU  
